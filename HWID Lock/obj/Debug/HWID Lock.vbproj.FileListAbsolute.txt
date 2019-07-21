@@ -1,0 +1,14 @@
+C:\Users\1019\Desktop\selfleak\HWID Lock\bin\Debug\xaynware loader.exe.config
+C:\Users\1019\Desktop\selfleak\HWID Lock\bin\Debug\xaynware loader.exe
+C:\Users\1019\Desktop\selfleak\HWID Lock\bin\Debug\xaynware loader.pdb
+C:\Users\1019\Desktop\selfleak\HWID Lock\bin\Debug\xaynware loader.xml
+C:\Users\1019\Desktop\selfleak\HWID Lock\obj\Debug\HWID Lock.vbprojAssemblyReference.cache
+C:\Users\1019\Desktop\selfleak\HWID Lock\obj\Debug\HWID_Lock.Form1.resources
+C:\Users\1019\Desktop\selfleak\HWID Lock\obj\Debug\HWID_Lock.Bloom.resources
+C:\Users\1019\Desktop\selfleak\HWID Lock\obj\Debug\HWID_Lock.MF.resources
+C:\Users\1019\Desktop\selfleak\HWID Lock\obj\Debug\HWID_Lock.Resources.resources
+C:\Users\1019\Desktop\selfleak\HWID Lock\obj\Debug\HWID Lock.vbproj.GenerateResource.cache
+C:\Users\1019\Desktop\selfleak\HWID Lock\obj\Debug\HWID Lock.vbproj.CoreCompileInputs.cache
+C:\Users\1019\Desktop\selfleak\HWID Lock\obj\Debug\xaynware loader.exe
+C:\Users\1019\Desktop\selfleak\HWID Lock\obj\Debug\xaynware loader.xml
+C:\Users\1019\Desktop\selfleak\HWID Lock\obj\Debug\xaynware loader.pdb
